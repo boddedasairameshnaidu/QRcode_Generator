@@ -1,0 +1,16 @@
+{
+  "name": "qrcodenode",
+  "version": "1.0.0",
+  "description": "Qrcode",
+  "main": "qrcodenode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "Ramesh",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^10.0.3",
+    "qr-image": "^3.2.0"
+  }
+}
